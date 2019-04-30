@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Vy Le
+    Kyle Faucher
+    Sophie Foster
+    Ian Kresyman
+    Alana Faller
+
+# THANKS
+
+    Thanks to Github
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
